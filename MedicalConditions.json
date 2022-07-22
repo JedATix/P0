@@ -1,0 +1,1 @@
+[{'id': 1, 'value': {'Name': 'A1', 'Symptoms': ['A1', 'A2', 'A3', 'A4'], 'Types_of_Medications': ['A11', 'A12']}}, {'id': 2, 'value': {'Name': 'a2', 'Symptoms': ['A1', 'A2', 'A3', 'A5', 'A6', 'A7'], 'Types_of_Medications': ['A21', 'A22', 'A23']}}, {'id': 3, 'value': {'Name': 'B', 'Symptoms': ['B1', 'B2', 'B3'], 'Types_of_Medications': ['C1', 'C2']}}]

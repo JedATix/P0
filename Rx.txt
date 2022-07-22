@@ -1,0 +1,12 @@
+Date:22/07/2022 10:20
+Patient Name: Tom
+Gender: m
+Age: 20
+
+History and Physiology:
+ ['A1', 'A2', 'A3', 'A5', 'A6']
+
+Recommended Medications Include:
+A11 TO BE TAKEN 2 TIMES DAILY
+A23 TO BE TAKEN AT MORNING 
+Prescribed by: abc
